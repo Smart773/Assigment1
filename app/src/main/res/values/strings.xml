@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assigment1</string>
+    <string name="student_details_heading">Student Details</string>
+    <string name="student_name">Name</string>
+    <string name="student_department">Department</string>
+    <string name="student_class_id">Class ID</string>
+    <string name="student_last_semester_attended">Last Semester Attended</string>
+    <string name="student_challan_No">Challan No</string>
+    <string name="empty">Dummy</string>
+    <string name="previous_gpa_heading">Gpa in previous Semesters</string>
+    <string name="previous_semester_list_heading">Semesters</string>
+    <string name="previous_gpa_list_heading">---GPA---</string>
+    <string name="register_course_heading">Register Course</string>
+    <string name="register_course_sub_heading_course_title">Course Title</string>
+    <string name="register_course_sub_heading_course_code">Course Code</string>
+    <string name="register_course_sub_heading_credit_hours">Credit Hours</string>
+    <string name="register_course_sub_heading_previous_grade">Pre-Grade</string>
+    <string name="register_course_sub_heading_previous_gpa">Pre-Gpa</string>
+
+</resources>
