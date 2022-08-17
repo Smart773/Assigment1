@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/drawable-v24/button_selection.xml" value="0.13" />
+        <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/drawable-v24/card_background.xml" value="0.13" />
+        <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/drawable-v24/register_selection.xml" value="0.13" />
+        <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/drawable/button_selection.xml" value="0.13" />
+        <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/drawable/edit_text_card_background.xml" value="0.13" />
+        <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/drawable/register_selection.xml" value="0.13" />
         <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/layout/activity_main2.xml" value="0.2" />
         <entry key="..\:/Users/Smart/AndroidStudioProjects/Assigment1/app/src/main/res/layout/activity_main3.xml" value="0.2" />
