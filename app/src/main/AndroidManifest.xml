@@ -18,6 +18,12 @@
         android:theme="@style/Theme.Assigment1"
         tools:targetApi="31">
         <activity
+            android:name=".RegistrationPage"
+            android:exported="false" />
+        <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
             android:name=".pdfView"
             android:exported="false" />
         <activity
